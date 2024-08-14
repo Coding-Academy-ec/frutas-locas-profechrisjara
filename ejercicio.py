@@ -12,7 +12,7 @@ frutas = {
     "banana": "amarilla",  # banana lleva el valor "amarilla"
     "pera": "verde",
     "naranja": "naranja",  # naranja lleva el valor "naranja"
-    "uva": "morado"  # Añadí la clave "uva" con el valor "morado"
+    "uva": "none"  # Añadí la clave "uva" con el valor "morado"
 }
 
 print(frutas)
