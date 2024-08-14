@@ -13,6 +13,7 @@ frutas = {
     "pera": "verde",
     "naranja": "naranja",  # naranja lleva el valor "naranja"
     "uva": "morado",  # Añadí la clave "uva" con el valor "morado"
+    
 }
 
 print(frutas)
