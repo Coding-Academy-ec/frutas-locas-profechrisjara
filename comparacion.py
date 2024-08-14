@@ -9,12 +9,12 @@
 
 frutas = {
     "manzana": "roja",
-    "banana": "amarilla",  # banana lleva el valor "amarilla"
+    "banana": "amarilla",
     "pera": "verde",
-    "naranja": "naranja",  # naranja lleva el valor "naranja"
+    "naranja": "naranja",
     "uva": "morado"  # Añadí la clave "uva" con el valor "morado"
 }
 
 print(frutas)
-print(frutas["banana"])  # banana lleva el valor "amarilla"
-print(frutas.get("uva"))
+print(frutas["banana"])  # Imprime el valor asociado a la clave "banana"
+print(frutas.get("uva"))  # Imprime el valor asociado a la clave "uva"
